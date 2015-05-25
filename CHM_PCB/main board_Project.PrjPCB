@@ -39,6 +39,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\CHM_PCB_LIB\DS1307.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GVVADMMF
+
+[Document2]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - SMD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -55,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document2]
+[Document3]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Diodes.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\CHM_PCB_LIB\sbm20.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TEPLKCNU
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - THD Packages.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Special.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Connectors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OJLKCFYQ
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\CHM_PCB_LIB\USB_micro_VTN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWFAEWEG
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Electromechanical.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\CHM_PCB_LIB\BAT_Li_Ion.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSITFSHQ
 
-[Document10]
+[Document11]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Resonators.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNQKKCSN
 
-[Document11]
+[Document12]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Capacitors.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NIAGEKLE
 
-[Document12]
+[Document13]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Batteries.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWQDOFRR
 
-[Document13]
+[Document14]
 DocumentPath=..\..\..\CHM_PCB_LIB\Libs_RRutledge 2013-12-23\PBL - Light Sources.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PFBAEWOT
 
-[Document14]
+[Document15]
 DocumentPath=..\..\..\CHM_PCB_LIB\sbm20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QSITFSHQ
 
-[Document15]
+[Document16]
 DocumentPath=main board_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEPQJOPL
 
-[Document16]
+[Document17]
 DocumentPath=main board_CHM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRBPUSVY
 
-[Document17]
+[Document18]
 DocumentPath=C:\Users\Public\Documents\Altium\AD15\Library\AX_Altium_v2.3.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document19]
 DocumentPath=C:\Users\Public\Documents\Altium\AD15\Library\Maks_lib.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=C:\Users\Public\Documents\Altium\AD15\Library\Atmel\Atmel Microcontroller 8-Bit megaAVR.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=C:\Users\Public\Documents\Altium\AD15\Library\Microchip\Microchip Power Mgt Battery Management.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document22]
 DocumentPath=..\..\..\CHM_PCB_LIB\CP2102.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNIYTYHS
 
-[Document22]
+[Document23]
 DocumentPath=..\..\..\CHM_PCB_LIB\HV_drossel.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCMABYYC
 
-[Document23]
+[Document24]
 DocumentPath=..\..\..\CHM_PCB_LIB\HV_drossel.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,6 +445,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGEMLRKQ
+
+[Document25]
+DocumentPath=C:\Users\Public\Documents\Altium\AD15\Library\Maxim\Maxim Peripheral Real Time Clock.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Default Configuration
