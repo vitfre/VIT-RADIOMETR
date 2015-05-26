@@ -413,6 +413,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RNIYTYHS
 
 [Document23]
+DocumentPath=..\..\..\CHM_PCB_LIB\KEY_L_F.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ESBYVHNC
+
+[Document24]
 DocumentPath=..\..\..\CHM_PCB_LIB\HV_drossel.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NCMABYYC
 
-[Document24]
+[Document25]
 DocumentPath=..\..\..\CHM_PCB_LIB\HV_drossel.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JGEMLRKQ
 
-[Document25]
+[Document26]
 DocumentPath=C:\Users\Public\Documents\Altium\AD15\Library\Maxim\Maxim Peripheral Real Time Clock.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
